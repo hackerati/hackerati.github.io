@@ -1,4 +1,4 @@
-<img src="hackerati_logo.png" alt="Hackerati">
+![Hackerati](hackerati_logo.png)
 
 After an amazing 6 years working with incredible clients and co-workers, building exciting products, we have decided to close Hackerati to pursue other interests.
 
